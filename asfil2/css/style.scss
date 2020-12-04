@@ -1,0 +1,1513 @@
+.sexsi{
+  p{
+      margin: 71.5px 120.9px 78.7px 153.5px;
+      font-family: Helvetica;
+      font-size: 22px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: -0.4px;
+      text-align: center;
+      color: #000000;
+  }
+}
+.rd-btns{
+  .login{
+    padding: 51.9px 0px 47.1px 0px;
+    border-radius: 15px;
+    background-color: #edf6ff;
+    text-align: center;
+    input[type="radio"]:after {
+      background-color: #edf6ff;
+      border: 5px solid #cfe8ff;
+      border-radius: 50%;
+      content: '';
+      display: block;
+      font-family: Helvetica;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: -0.4px;
+      text-align: center;
+      height: 100%;
+      left: -5px;
+      position: relative;
+      top: -3px;
+      width: 20px;
+      height: 20px;
+  }
+  input[type="radio"]:checked:after {
+    background-color: #5b5b5b;
+}
+    .text1{
+      //margin: 0 76px 1px 14px;
+      margin-left: 10px;
+      font-family: Helvetica;
+      font-size: 15px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: -0.4px;
+      text-align: center;
+      color: #2b77c4;
+    }
+    .text{
+      //margin: 0 82.5px 1px 14px;
+      font-family: Helvetica;
+      margin-left: 10px;
+      font-size: 15px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: -0.4px;
+      text-align: center;
+      color: #828282;
+    }
+  
+  }
+}
+
+.fizikisexskimi{
+  margin-top: 10px;
+  .sexsimelumatlar{
+    .logintext{
+      padding-bottom: 50px;
+      text-align: center;
+      justify-content: center;
+      border-radius: 15px;
+      background-color: #edf6ff;
+      .sxsm {
+        width: 167px;
+        height: 25px;
+        margin: 50px 0px 0px 55px;
+        font-family: Helvetica;
+        font-size: 21px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: -0.38px;
+        color: #000000;
+      }
+      .mutleqxana{
+        text-align: right;
+        margin-right: 35px;
+        font-family: Helvetica;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 0.04px;
+        color: #698aab;
+        
+      }
+      .left{
+        position: relative;
+        &::before{
+          position: absolute;
+          content: '';
+          width: 2px;
+          height: 290px;
+          top: 70px;
+          right: -10px;
+          opacity: 0.2;
+          background-color: #a0c0e0;
+        }
+        &::after{
+          position: absolute;
+          content: '';
+          width: 2px;
+          height: 300px;
+          bottom: 110px;
+          right: -10px;
+          opacity: 0.2;
+          background-color: #a0c0e0;
+        }
+        .inpdiv{
+          position: relative;
+          margin-left: 50px;
+          .textinput{
+            border-radius: 4px;
+            width: 455px;
+            height: 57.3px;
+            margin: 19.8px 70.5px 35.8px 0;
+            padding: 16.7px 22.1px 8.7px 31.2px;
+            border-color: transparent;
+            background-color: var(--white);
+            display: inline-block;
+            position: relative;
+            &:focus{
+              outline: none;
+            }
+            &::placeholder{
+              //margin: 0 271.7px 8.7px 0;
+              margin-bottom: 10px;
+              font-family: Helvetica;
+              font-size: 20px;
+              font-weight: normal;
+              font-stretch: normal;
+              font-style: normal;
+              line-height: normal;
+              letter-spacing: 0.06px;
+              color: #698aab;
+              
+            }
+        }
+        span{
+          position: absolute;
+          top: 0;
+          font-size: 27px;
+          z-index: 15;
+          right: 50px;
+          top: 30px;
+          color: #698aab;
+        }
+        }
+        button{
+          width: 455px;
+          height: 57px;
+          margin: 34.5px 66.9px 30.6px 50px;
+          padding: 17.5px 200.5px 15.5px;
+          border-radius: 7px;
+          border: none;
+          background-color: #32a7ff;
+          &:focus{
+            outline: none;
+          }
+          font-family: Helvetica;
+          font-size: 20px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: var(--white);
+        
+        }
+        .sxshsb{
+            width: 239px;
+            height: 24px;
+            margin-bottom: 50px;
+            font-family: Helvetica;
+            font-size: 20px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: 0.06px;
+            color: #32a7ff;
+            text-decoration: underline;
+        }
+      }
+      .right{
+        padding-top: 270px;
+        position: relative;
+        &::before{
+          position: absolute;
+          left: -15px;
+          top: 370px;
+          content: 'və ya';
+          font-family: Helvetica;
+          font-size: 20px;
+          font-weight: normal;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: #32a7ff;
+        }
+        .sosial{
+          //margin: 0 90px 59px;
+          font-family: Helvetica;
+          font-size: 21px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: -0.38px;
+          color: #000000;
+        }
+        .Facebook {
+          margin-top: 50px;
+          //margin: 59px 0 30px;
+          padding: 18px 180px 15px 181px;
+          border-radius: 7px;
+          background-color: #4e7ac2;
+          font-size: 20px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: var(--white);
+        }
+        .Google{
+          //margin: 30px 0 0;
+          margin-top: 50px;
+          padding: 17px 190px 16px;
+          border-radius: 7px;
+          background-color: #e14827;
+            font-family: Helvetica;
+      font-size: 20px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: 0.06px;
+      color: var(--white);
+        }
+        button{
+          border: none;
+          &:focus{
+            outline: none;
+          }
+        }
+    
+      }
+    }}
+}
+
+.sirketkimi{
+  display: none;
+  .sexsimelumatlar{
+    .logintext{
+      margin-top: 55px;
+      padding-bottom: 50px;
+      text-align: center;
+      justify-content: center;
+      border-radius: 15px;
+      background-color: #edf6ff;
+      }
+      .left{
+        .sxsm {
+          width: 167px;
+          height: 25px;
+          margin: 50px 0px 0px 55px;
+          font-family: Helvetica;
+          font-size: 21px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: -0.38px;
+          color: #000000;
+        }
+        .mutleqxana{
+          text-align: right;
+          margin-right: 35px;
+          font-family: Helvetica;
+          font-size: 15px;
+          font-weight: normal;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.04px;
+          color: #698aab;
+          
+        }
+        .inpdiv{
+          position: relative;
+          margin-left: 50px;
+          .textinput{
+            border-radius: 4px;
+            width: 455px;
+            height: 57.3px;
+            margin: 19.8px 70.5px 35.8px 0;
+            padding: 16.7px 22.1px 8.7px 31.2px;
+            border-color: transparent;
+            background-color: var(--white);
+            display: inline-block;
+            position: relative;
+            &:focus{
+              outline: none;
+            }
+            &::placeholder{
+              //margin: 0 271.7px 8.7px 0;
+              margin-bottom: 10px;
+              font-family: Helvetica;
+              font-size: 20px;
+              font-weight: normal;
+              font-stretch: normal;
+              font-style: normal;
+              line-height: normal;
+              letter-spacing: 0.06px;
+              color: #698aab;
+              
+            }
+        }
+        span{
+          position: absolute;
+          top: 0;
+          font-size: 27px;
+          z-index: 15;
+          right: 50px;
+          top: 30px;
+          color: #698aab;
+        }
+        }
+        button{
+          width: 455px;
+          height: 57px;
+          margin: 34.5px 66.9px 30.6px 50px;
+          padding: 17.5px 200.5px 15.5px;
+          border-radius: 7px;
+          border: none;
+          background-color: #32a7ff;
+          &:focus{
+            outline: none;
+          }
+          font-family: Helvetica;
+          font-size: 20px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: var(--white);
+        
+        }
+        .sxshsb{
+            width: 239px;
+            height: 24px;
+            margin-bottom: 50px;
+            font-family: Helvetica;
+            font-size: 20px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: 0.06px;
+            color: #32a7ff;
+            text-decoration: underline;
+        }
+      }
+      .right{
+        .sxsm {
+          text-align: left;
+          margin: 50px 0px 32px 55px;
+          font-family: Helvetica;
+          font-size: 21px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: -0.38px;
+          color: #000000;
+        }
+        .inpdiv{
+          position: relative;
+          margin-left: 40px;
+          .textinput{
+            border-radius: 4px;
+            width: 455px;
+            height: 57.3px;
+            margin: 19.8px 70.5px 35.8px 0;
+            padding: 16.7px 22.1px 8.7px 31.2px;
+            border-color: transparent;
+            background-color: var(--white);
+            display: inline-block;
+            position: relative;
+            &:focus{
+              outline: none;
+            }
+            &::placeholder{
+              //margin: 0 271.7px 8.7px 0;
+              margin-bottom: 10px;
+              font-family: Helvetica;
+              font-size: 20px;
+              font-weight: normal;
+              font-stretch: normal;
+              font-style: normal;
+              line-height: normal;
+              letter-spacing: 0.06px;
+              color: #698aab;
+              
+            }
+        }
+        span{
+          position: absolute;
+          top: 0;
+          font-size: 27px;
+          z-index: 15;
+          right: 60px;
+          top: 30px;
+          color: #698aab;
+        }
+        }
+    
+      }
+      button{
+          width: 455px;
+          height: 57px;
+          margin: 20px 0px;
+          //margin: 65.1px 318.6px 30.6px 137.4px;
+          padding: 17.5px 200.5px 15.5px;
+          border-radius: 7px;
+          border: none;
+          background-color: #32a7ff;
+          font-size: 20px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: var(--white);
+          &:focus{
+            outline: none;
+            border: none;
+          }
+      }
+      a{
+        font-family: Helvetica;
+        font-size: 20px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 0.06px;
+        color: #32a7ff;
+        text-decoration: underline;
+      }
+    }
+}
+
+.satisagentikimi{
+  display: none;
+.logintext{
+  margin-top: 55px;
+  padding-bottom: 55px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: #edf6ff;
+  }
+  .left{
+    .sxsm {
+      width: 167px;
+      height: 25px;
+      margin: 50px 0px 0px 55px;
+      font-family: Helvetica;
+      font-size: 21px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: -0.38px;
+      color: #000000;
+    }
+    .mutleqxana{
+      text-align: right;
+      margin-right: 35px;
+      font-family: Helvetica;
+      font-size: 15px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: 0.04px;
+      color: #698aab;
+      
+    }
+    .inpdiv{
+      position: relative;
+      margin-left: 50px;
+      .textinput{
+        border-radius: 4px;
+        width: 455px;
+        height: 57.3px;
+        margin: 19.8px 70.5px 35.8px 0;
+        padding: 16.7px 22.1px 8.7px 31.2px;
+        border-color: transparent;
+        background-color: var(--white);
+        display: inline-block;
+        position: relative;
+        &:focus{
+          outline: none;
+        }
+        &::placeholder{
+          //margin: 0 271.7px 8.7px 0;
+          margin-bottom: 10px;
+          font-family: Helvetica;
+          font-size: 20px;
+          font-weight: normal;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: #698aab;
+          
+        }
+    }
+    span{
+      position: absolute;
+      top: 0;
+      font-size: 27px;
+      z-index: 15;
+      right: 50px;
+      top: 30px;
+      color: #698aab;
+    }
+    }
+    button{
+      width: 455px;
+      height: 57px;
+      margin: 34.5px 66.9px 30.6px 50px;
+      padding: 17.5px 200.5px 15.5px;
+      border-radius: 7px;
+      border: none;
+      background-color: #32a7ff;
+      &:focus{
+        outline: none;
+      }
+      font-family: Helvetica;
+      font-size: 20px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: 0.06px;
+      color: var(--white);
+    
+    }
+    .sxshsb{
+        width: 239px;
+        height: 24px;
+        margin-bottom: 50px;
+        font-family: Helvetica;
+        font-size: 20px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 0.06px;
+        color: #32a7ff;
+        text-decoration: underline;
+    }
+  }
+  .right{
+    .teskilatlar{
+      margin-right: 3px;
+      margin-top: 20px;
+      margin-bottom: 38px;
+      padding: 20px 150px;
+      border-color: transparent;
+      background-color: var(--white);
+      display: inline-block;
+      border-radius: 4px; 
+      font-family: Helvetica;
+      font-size: 20px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: 0.06px;
+      color: #698aab;
+      text-align: left;
+      border: none;
+      &:focus{
+        border: none;
+        outline: none;
+      }
+      option{
+        text-align: left;
+        margin: 8.4px 215.8px 12.6px 0;
+        font-family: Helvetica;
+        font-size: 20px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 0.06px;
+        color: #698aab;
+        border: none;
+        outline: none;
+        &:focus{
+        outline: none;
+          border: none;
+        }
+      }
+    }
+    .sxsm {
+      text-align: left;
+      margin: 50px 0px 32px 55px;
+      font-family: Helvetica;
+      font-size: 21px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: -0.38px;
+      color: #000000;
+    }
+    .inpdiv{
+      position: relative;
+      margin-left: 40px;
+      .textinput{
+        border-radius: 4px;
+        width: 455px;
+        height: 57.3px;
+        margin: 19.8px 70.5px 35.8px 0;
+        padding: 16.7px 22.1px 8.7px 31.2px;
+        border-color: transparent;
+        background-color: var(--white);
+        display: inline-block;
+        position: relative;
+        &:focus{
+          outline: none;
+        }
+        &::placeholder{
+          //margin: 0 271.7px 8.7px 0;
+          margin-bottom: 10px;
+          font-family: Helvetica;
+          font-size: 20px;
+          font-weight: normal;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: #698aab;
+          
+        }
+    }
+    span{
+      position: absolute;
+      top: 0;
+      font-size: 27px;
+      z-index: 15;
+      right: 60px;
+      top: 30px;
+      color: #698aab;
+    }
+    }
+
+  }
+  button{
+      width: 455px;
+      height: 57px;
+      margin: 20px 0px;
+      //margin: 65.1px 318.6px 30.6px 137.4px;
+      padding: 17.5px 200.5px 15.5px;
+      border-radius: 7px;
+      border: none;
+      background-color: #32a7ff;
+      font-size: 20px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: 0.06px;
+      color: var(--white);
+      &:focus{
+        outline: none;
+        border: none;
+      }
+  }
+  a{
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.06px;
+    color: #32a7ff;
+    text-decoration: underline;
+  }
+
+}
+
+.qeyd{
+  margin-top: 20px;
+  .esasqeyd{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    background-color: #f8f0da;
+    .left{
+      margin-top: 20px;
+      text-align: right;
+        span{
+          font-family: HoeflerText;
+          font-size: 34px;
+          padding: 4.8px 18px 6.8px 19.5px;
+          border: solid 4px #b8dfaf;
+          background-color: #9ed392;
+          border-radius: 50%;
+          font-weight: 900;
+          font-stretch: normal;
+          font-style: italic;
+          line-height: normal;
+          letter-spacing: 1.32px;
+          color: var(--white);
+        }
+      }
+      .right{
+        span{
+          font-family: Helvetica;
+          font-size: 15px;
+          font-weight: 300;
+          font-stretch: normal;
+          font-style: oblique;
+          line-height: 1.27;
+          letter-spacing: 0.58px;
+          color: #6f6f6f;
+        }
+      }
+  }
+
+  }
+
+  .sexsihesab{
+    .sexsimelumatlar{
+      .logintext{
+        margin-top: 55px;
+        text-align: center;
+        justify-content: center;
+        border-radius: 15px;
+        background-color: #edf6ff;
+        .sxsm {
+          width: 167px;
+          height: 25px;
+          margin: 50px 0px 0px 55px;
+          font-family: Helvetica;
+          font-size: 21px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: -0.38px;
+          color: #000000;
+        }
+        .left{
+          position: relative;
+          &::before{
+            position: absolute;
+            content: '';
+            width: 2px;
+            height: 670px;
+            top: 60px;
+            right: -10px;
+            opacity: 0.2;
+            background-color: #a0c0e0;
+          }
+          .inpdiv{
+            position: relative;
+            margin-left: 50px;
+            .textinput{
+              border-radius: 4px;
+              width: 455px;
+              height: 57.3px;
+              margin: 19.8px 70.5px 35.8px 0;
+              padding: 16.7px 22.1px 8.7px 31.2px;
+              border-color: transparent;
+              background-color: var(--white);
+              display: inline-block;
+              position: relative;
+              &:focus{
+                outline: none;
+              }
+              &::placeholder{
+                //margin: 0 271.7px 8.7px 0;
+                margin-bottom: 10px;
+                font-family: Helvetica;
+                font-size: 20px;
+                font-weight: normal;
+                font-stretch: normal;
+                font-style: normal;
+                line-height: normal;
+                letter-spacing: 0.06px;
+                color: #698aab;
+                
+              }
+          }
+          span{
+            position: absolute;
+            top: 0;
+            font-size: 27px;
+            z-index: 15;
+            right: 50px;
+            top: 30px;
+            color: #698aab;
+          }
+          }
+          button{
+            width: 455px;
+            height: 57px;
+            margin: 34.5px 66.9px 30.6px 50px;
+            padding: 17.5px 200.5px 15.5px;
+            border-radius: 7px;
+            border: none;
+            background-color: #32a7ff;
+            &:focus{
+              outline: none;
+            }
+            font-family: Helvetica;
+            font-size: 20px;
+            font-weight: bold;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: 0.06px;
+            color: var(--white);
+          
+          }
+          .sxshsb{
+              width: 239px;
+              height: 24px;
+              margin-bottom: 50px;
+              font-family: Helvetica;
+              font-size: 20px;
+              font-weight: normal;
+              font-stretch: normal;
+              font-style: normal;
+              line-height: normal;
+              letter-spacing: 0.06px;
+              color: #32a7ff;
+              text-decoration: underline;
+          }
+        }
+        .right{
+          padding-top: 100px;
+          .span1{
+            margin-right: 110px;
+            font-family: Helvetica;
+            font-size: 21px;
+            font-weight: bold;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: -0.38px;
+            color: #000000;
+            
+          }
+          .span2{
+            margin-left: 20px;
+            font-family: Helvetica;
+            font-size: 20px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: 0.06px;
+            color: #698aab;
+          }
+          .mstr{
+            margin-right: 160px;
+          }
+
+        }
+      }}
+  }
+
+  .table-list{
+    p{
+      margin-left: 40px;
+      font-family: Helvetica;
+      font-size: 21px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: -0.38px;
+      color: #000000;
+    }
+    .text{
+      margin-top: 25px;
+      text-align: right;
+      margin-right: 25px;
+      .span1{
+        margin-top: 45px;
+        font-family: Helvetica;
+        font-size: 21px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: -0.38px;
+        color: #000000;
+      }
+      .span2{
+        margin: 75.3px 23px 0 20px;
+        font-family: Helvetica;
+        font-size: 21px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 0.07px;
+        color: #698aab;
+      }
+    }
+
+    .lists{
+      margin-top: 50px;
+      padding: 50px 35px;
+      border-radius: 15px;
+      background-color: #edf6ff;
+      table{
+        width: 90%;
+        margin-left: 55px;
+        th,td{
+          padding: 10px 0px;
+          text-align: center;
+          border-bottom: solid 0.5px #a0c0e0;
+          background-color: #edf6ff;
+        }
+        th{
+          margin: 75.8px 123.3px 19.2px 56.7px;
+          font-family: Helvetica;
+          font-size: 20px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: #698aab;
+        }
+        td{
+          margin: 14.5px 131px 16.6px 123.3px;
+          font-family: Helvetica;
+          font-size: 20px;
+          font-weight: normal;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: #698aab;
+        }
+        .name{
+          margin: 14.5px 123.3px 16.6px 56.7px;
+          font-family: Helvetica;
+          font-size: 20px;
+          font-weight: normal;
+          font-stretch: normal;
+          text-decoration: underline;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: #0080ff;
+        }
+      }
+    }
+
+  }
+
+  .qeydler{
+    margin-top: 20px;
+      .esasqeyd{
+        padding: 30px 0px;
+        border-radius: 15px;
+        background-color:#edf6ff;
+        p{
+          font-family: Helvetica;
+          font-size: 21px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: -0.38px;
+          color: #000000;
+          margin-left: 85px;
+        }
+        .box{
+          margin-top: 20px;
+          .left{
+            margin-top: 40px;
+            text-align: right;
+              span{
+                font-family: HoeflerText;
+                font-size: 34px;
+                padding: 4.8px 18px 6.8px 19.5px;
+                border: solid 4px #b8dfaf;
+                background-color: #9ed392;
+                border-radius: 50%;
+                font-weight: 900;
+                font-stretch: normal;
+                font-style: italic;
+                line-height: normal;
+                letter-spacing: 1.32px;
+                color: var(--white);
+              }
+            }
+            .right{
+              span{
+                font-family: Helvetica;
+                font-size: 15px;
+                font-weight: normal;
+                font-stretch: normal;
+                font-style: normal;
+                line-height: 1.27;
+                letter-spacing: 0.58px;
+                color: #6f6f6f;
+              }
+              .tarix{
+                font-family: Helvetica;
+                font-size: 20px;
+                font-weight: normal;
+                font-stretch: normal;
+                font-style: normal;
+                line-height: normal;
+                letter-spacing: 0.06px;
+                color: #698aab;
+              }
+            }
+        }
+
+      }
+  }
+
+  .Loginmain{
+    margin-top: 10px;
+    .sexsimelumatlar{
+      .logintext{
+        padding-bottom: 50px;
+        text-align: center;
+        justify-content: center;
+        border-radius: 15px;
+        background-color: #edf6ff;
+        .sxsm {
+          width: 167px;
+          height: 25px;
+          margin: 50px 0px 0px 55px;
+          font-family: Helvetica;
+          font-size: 21px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: -0.38px;
+          color: #000000;
+        }
+        .mutleqxana{
+          text-align: right;
+          margin-right: 35px;
+          font-family: Helvetica;
+          font-size: 15px;
+          font-weight: normal;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.04px;
+          color: #698aab;
+          
+        }
+        .left{
+          position: relative;
+          &::before{
+            position: absolute;
+            content: '';
+            width: 2px;
+            height: 150px;
+            top: 70px;
+            right: -10px;
+            opacity: 0.2;
+            background-color: #a0c0e0;
+          }
+          &::after{
+            position: absolute;
+            content: '';
+            width: 2px;
+            height: 150px;
+            bottom: 10px;
+            right: -10px;
+            opacity: 0.2;
+            background-color: #a0c0e0;
+          }
+          .inpdiv{
+            position: relative;
+            margin-left: 50px;
+            .textinput{
+              border-radius: 4px;
+              width: 455px;
+              height: 57.3px;
+              margin: 19.8px 70.5px 35.8px 0;
+              padding: 16.7px 22.1px 8.7px 31.2px;
+              border-color: transparent;
+              background-color: var(--white);
+              display: inline-block;
+              position: relative;
+              &:focus{
+                outline: none;
+              }
+              &::placeholder{
+                //margin: 0 271.7px 8.7px 0;
+                margin-bottom: 10px;
+                font-family: Helvetica;
+                font-size: 20px;
+                font-weight: normal;
+                font-stretch: normal;
+                font-style: normal;
+                line-height: normal;
+                letter-spacing: 0.06px;
+                color: #698aab;
+                
+              }
+          }
+          span{
+            position: absolute;
+            top: 0;
+            font-size: 27px;
+            z-index: 15;
+            right: 50px;
+            top: 30px;
+            color: #698aab;
+          }
+          }
+          button{
+            width: 455px;
+            height: 57px;
+            margin: 34.5px 66.9px 30.6px 50px;
+            padding: 17.5px 200.5px 15.5px;
+            border-radius: 7px;
+            border: none;
+            background-color: #32a7ff;
+            &:focus{
+              outline: none;
+            }
+            font-family: Helvetica;
+            font-size: 20px;
+            font-weight: bold;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: 0.06px;
+            color: var(--white);
+          
+          }
+          .sxshsb{
+              width: 239px;
+              height: 24px;
+              margin-bottom: 50px;
+              font-family: Helvetica;
+              font-size: 20px;
+              font-weight: normal;
+              font-stretch: normal;
+              font-style: normal;
+              line-height: normal;
+              letter-spacing: 0.06px;
+              color: #32a7ff;
+              text-decoration: underline;
+          }
+        }
+        .right{
+          padding-top: 40px;
+          position: relative;
+          &::before{
+            position: absolute;
+            left: -15px;
+            top: 250px;
+            content: 'və ya';
+            font-family: Helvetica;
+            font-size: 20px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: 0.06px;
+            color: #32a7ff;
+          }
+          .sosial{
+            //margin: 0 90px 59px;
+            font-family: Helvetica;
+            font-size: 21px;
+            font-weight: bold;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: -0.38px;
+            color: #000000;
+          }
+          .Facebook {
+            margin-top: 50px;
+            //margin: 59px 0 30px;
+            padding: 18px 180px 15px 181px;
+            border-radius: 7px;
+            background-color: #4e7ac2;
+            font-size: 20px;
+            font-weight: bold;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: 0.06px;
+            color: var(--white);
+          }
+          .Google{
+            //margin: 30px 0 0;
+            margin-top: 50px;
+            padding: 17px 190px 16px;
+            border-radius: 7px;
+            background-color: #e14827;
+              font-family: Helvetica;
+        font-size: 20px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 0.06px;
+        color: var(--white);
+          }
+          button{
+            border: none;
+            &:focus{
+              outline: none;
+            }
+          }
+      
+        }
+      }}
+  }
+  
+
+  .catdrilacaqunvan{
+    display:block;
+  .logintext{
+    margin-top: 55px;
+    padding-bottom: 55px;
+    padding-top: 55px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 15px;
+    background-color: #edf6ff;
+    }
+    .left{
+      .sxsm {
+        width: 167px;
+        height: 25px;
+        margin: 50px 0px 0px 55px;
+        font-family: Helvetica;
+        font-size: 21px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: -0.38px;
+        color: #000000;
+      }
+      .inpdiv{
+        position: relative;
+        margin-left: 50px;
+        .textinput{
+          border-radius: 4px;
+          width: 455px;
+          height: 57.3px;
+          margin: 19.8px 70.5px 35.8px 0;
+          padding: 16.7px 22.1px 8.7px 31.2px;
+          border-color: transparent;
+          background-color: var(--white);
+          display: inline-block;
+          position: relative;
+          &:focus{
+            outline: none;
+          }
+          &::placeholder{
+            //margin: 0 271.7px 8.7px 0;
+            margin-bottom: 10px;
+            font-family: Helvetica;
+            font-size: 20px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: 0.06px;
+            color: #698aab;
+            
+          }
+      }
+      }
+      button{
+        width: 455px;
+        height: 57px;
+        margin: 34.5px 66.9px 30.6px 50px;
+        padding: 17.5px 200.5px 15.5px;
+        border-radius: 7px;
+        border: none;
+        background-color: #32a7ff;
+        &:focus{
+          outline: none;
+        }
+        font-family: Helvetica;
+        font-size: 20px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 0.06px;
+        color: var(--white);
+      
+      }
+      .sxshsb{
+          width: 239px;
+          height: 24px;
+          margin-bottom: 50px;
+          font-family: Helvetica;
+          font-size: 20px;
+          font-weight: normal;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: #32a7ff;
+          text-decoration: underline;
+      }
+    }
+    .right{
+      .seher{
+        margin-right: 3px;
+        margin-top: 20px;
+        margin-bottom: 38px;
+        padding: 20px 150px;
+        border-color: transparent;
+        background-color: var(--white);
+        display: inline-block;
+        border-radius: 4px; 
+        font-family: Helvetica;
+        font-size: 20px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 0.06px;
+        color: #698aab;
+        text-align: left;
+        border: none;
+        &:focus{
+          border: none;
+          outline: none;
+        }
+        .olke{
+          margin-right: 3px;
+          margin-top: 20px;
+          margin-bottom: 38px;
+          padding: 20px 150px;
+          border-color: transparent;
+          background-color: var(--white);
+          display: inline-block;
+          border-radius: 4px; 
+          font-family: Helvetica;
+          font-size: 20px;
+          font-weight: normal;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: #698aab;
+          text-align: left;
+          border: none;
+          &:focus{
+            border: none;
+            outline: none;
+          }
+        }
+        option{
+          text-align: left;
+          margin: 8.4px 215.8px 12.6px 0;
+          font-family: Helvetica;
+          font-size: 20px;
+          font-weight: normal;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: 0.06px;
+          color: #698aab;
+          border: none;
+          outline: none;
+          &:focus{
+          outline: none;
+            border: none;
+          }
+        }
+      }
+      .sxsm {
+        text-align: left;
+        margin: 50px 0px 32px 55px;
+        font-family: Helvetica;
+        font-size: 21px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: -0.38px;
+        color: #000000;
+      }
+      .inpdiv{
+        position: relative;
+        margin-left: 40px;
+        .textinput{
+          border-radius: 4px;
+          width: 455px;
+          height: 57.3px;
+          margin: 19.8px 70.5px 35.8px 0;
+          padding: 16.7px 22.1px 8.7px 31.2px;
+          border-color: transparent;
+          background-color: var(--white);
+          display: inline-block;
+          position: relative;
+          &:focus{
+            outline: none;
+          }
+          &::placeholder{
+            //margin: 0 271.7px 8.7px 0;
+            margin-bottom: 10px;
+            font-family: Helvetica;
+            font-size: 20px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: 0.06px;
+            color: #698aab;
+            
+          }
+      }
+      span{
+        position: absolute;
+        top: 0;
+        font-size: 27px;
+        z-index: 15;
+        right: 60px;
+        top: 30px;
+        color: #698aab;
+      }
+      }
+  
+    }
+    button{
+        width: 455px;
+        height: 57px;
+        margin: 20px 0px;
+        //margin: 65.1px 318.6px 30.6px 137.4px;
+        padding: 17.5px 200.5px 15.5px;
+        border-radius: 7px;
+        border: none;
+        background-color: #32a7ff;
+        font-size: 20px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 0.06px;
+        color: var(--white);
+        &:focus{
+          outline: none;
+          border: none;
+        }
+    }
+    a{
+      font-family: Helvetica;
+      font-size: 20px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: 0.06px;
+      color: #32a7ff;
+      text-decoration: underline;
+    }
+  
+  }
+  

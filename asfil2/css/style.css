@@ -1,0 +1,1433 @@
+@charset "UTF-8";
+.sexsi p {
+  margin: 71.5px 120.9px 78.7px 153.5px;
+  font-family: Helvetica;
+  font-size: 22px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.4px;
+  text-align: center;
+  color: #000000;
+}
+
+.rd-btns .login {
+  padding: 51.9px 0px 47.1px 0px;
+  border-radius: 15px;
+  background-color: #edf6ff;
+  text-align: center;
+}
+.rd-btns .login input[type="radio"]:after {
+  background-color: #edf6ff;
+  border: 5px solid #cfe8ff;
+  border-radius: 50%;
+  content: '';
+  display: block;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.4px;
+  text-align: center;
+  height: 100%;
+  left: -5px;
+  position: relative;
+  top: -3px;
+  width: 20px;
+  height: 20px;
+}
+.rd-btns .login input[type="radio"]:checked:after {
+  background-color: #5b5b5b;
+}
+.rd-btns .login .text1 {
+  margin-left: 10px;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.4px;
+  text-align: center;
+  color: #2b77c4;
+}
+.rd-btns .login .text {
+  font-family: Helvetica;
+  margin-left: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.4px;
+  text-align: center;
+  color: #828282;
+}
+
+.fizikisexskimi {
+  margin-top: 10px;
+}
+.fizikisexskimi .sexsimelumatlar .logintext {
+  padding-bottom: 50px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: #edf6ff;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .sxsm {
+  width: 167px;
+  height: 25px;
+  margin: 50px 0px 0px 55px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .mutleqxana {
+  text-align: right;
+  margin-right: 35px;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.04px;
+  color: #698aab;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .left {
+  position: relative;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .left::before {
+  position: absolute;
+  content: '';
+  width: 2px;
+  height: 290px;
+  top: 70px;
+  right: -10px;
+  opacity: 0.2;
+  background-color: #a0c0e0;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .left::after {
+  position: absolute;
+  content: '';
+  width: 2px;
+  height: 300px;
+  bottom: 110px;
+  right: -10px;
+  opacity: 0.2;
+  background-color: #a0c0e0;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .left .inpdiv {
+  position: relative;
+  margin-left: 50px;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .left .inpdiv .textinput {
+  border-radius: 4px;
+  width: 455px;
+  height: 57.3px;
+  margin: 19.8px 70.5px 35.8px 0;
+  padding: 16.7px 22.1px 8.7px 31.2px;
+  border-color: transparent;
+  background-color: var(--white);
+  display: inline-block;
+  position: relative;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .left .inpdiv .textinput:focus {
+  outline: none;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .left .inpdiv .textinput::placeholder {
+  margin-bottom: 10px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .left .inpdiv span {
+  position: absolute;
+  top: 0;
+  font-size: 27px;
+  z-index: 15;
+  right: 50px;
+  top: 30px;
+  color: #698aab;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .left button {
+  width: 455px;
+  height: 57px;
+  margin: 34.5px 66.9px 30.6px 50px;
+  padding: 17.5px 200.5px 15.5px;
+  border-radius: 7px;
+  border: none;
+  background-color: #32a7ff;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.fizikisexskimi .sexsimelumatlar .logintext .left button:focus {
+  outline: none;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .left .sxshsb {
+  width: 239px;
+  height: 24px;
+  margin-bottom: 50px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #32a7ff;
+  text-decoration: underline;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .right {
+  padding-top: 270px;
+  position: relative;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .right::before {
+  position: absolute;
+  left: -15px;
+  top: 370px;
+  content: 'və ya';
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #32a7ff;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .right .sosial {
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .right .Facebook {
+  margin-top: 50px;
+  padding: 18px 180px 15px 181px;
+  border-radius: 7px;
+  background-color: #4e7ac2;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.fizikisexskimi .sexsimelumatlar .logintext .right .Google {
+  margin-top: 50px;
+  padding: 17px 190px 16px;
+  border-radius: 7px;
+  background-color: #e14827;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.fizikisexskimi .sexsimelumatlar .logintext .right button {
+  border: none;
+}
+.fizikisexskimi .sexsimelumatlar .logintext .right button:focus {
+  outline: none;
+}
+
+.sirketkimi {
+  display: none;
+}
+.sirketkimi .sexsimelumatlar .logintext {
+  margin-top: 55px;
+  padding-bottom: 50px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: #edf6ff;
+}
+.sirketkimi .sexsimelumatlar .left .sxsm {
+  width: 167px;
+  height: 25px;
+  margin: 50px 0px 0px 55px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.sirketkimi .sexsimelumatlar .left .mutleqxana {
+  text-align: right;
+  margin-right: 35px;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.04px;
+  color: #698aab;
+}
+.sirketkimi .sexsimelumatlar .left .inpdiv {
+  position: relative;
+  margin-left: 50px;
+}
+.sirketkimi .sexsimelumatlar .left .inpdiv .textinput {
+  border-radius: 4px;
+  width: 455px;
+  height: 57.3px;
+  margin: 19.8px 70.5px 35.8px 0;
+  padding: 16.7px 22.1px 8.7px 31.2px;
+  border-color: transparent;
+  background-color: var(--white);
+  display: inline-block;
+  position: relative;
+}
+.sirketkimi .sexsimelumatlar .left .inpdiv .textinput:focus {
+  outline: none;
+}
+.sirketkimi .sexsimelumatlar .left .inpdiv .textinput::placeholder {
+  margin-bottom: 10px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+.sirketkimi .sexsimelumatlar .left .inpdiv span {
+  position: absolute;
+  top: 0;
+  font-size: 27px;
+  z-index: 15;
+  right: 50px;
+  top: 30px;
+  color: #698aab;
+}
+.sirketkimi .sexsimelumatlar .left button {
+  width: 455px;
+  height: 57px;
+  margin: 34.5px 66.9px 30.6px 50px;
+  padding: 17.5px 200.5px 15.5px;
+  border-radius: 7px;
+  border: none;
+  background-color: #32a7ff;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.sirketkimi .sexsimelumatlar .left button:focus {
+  outline: none;
+}
+.sirketkimi .sexsimelumatlar .left .sxshsb {
+  width: 239px;
+  height: 24px;
+  margin-bottom: 50px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #32a7ff;
+  text-decoration: underline;
+}
+.sirketkimi .sexsimelumatlar .right .sxsm {
+  text-align: left;
+  margin: 50px 0px 32px 55px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.sirketkimi .sexsimelumatlar .right .inpdiv {
+  position: relative;
+  margin-left: 40px;
+}
+.sirketkimi .sexsimelumatlar .right .inpdiv .textinput {
+  border-radius: 4px;
+  width: 455px;
+  height: 57.3px;
+  margin: 19.8px 70.5px 35.8px 0;
+  padding: 16.7px 22.1px 8.7px 31.2px;
+  border-color: transparent;
+  background-color: var(--white);
+  display: inline-block;
+  position: relative;
+}
+.sirketkimi .sexsimelumatlar .right .inpdiv .textinput:focus {
+  outline: none;
+}
+.sirketkimi .sexsimelumatlar .right .inpdiv .textinput::placeholder {
+  margin-bottom: 10px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+.sirketkimi .sexsimelumatlar .right .inpdiv span {
+  position: absolute;
+  top: 0;
+  font-size: 27px;
+  z-index: 15;
+  right: 60px;
+  top: 30px;
+  color: #698aab;
+}
+.sirketkimi .sexsimelumatlar button {
+  width: 455px;
+  height: 57px;
+  margin: 20px 0px;
+  padding: 17.5px 200.5px 15.5px;
+  border-radius: 7px;
+  border: none;
+  background-color: #32a7ff;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.sirketkimi .sexsimelumatlar button:focus {
+  outline: none;
+  border: none;
+}
+.sirketkimi .sexsimelumatlar a {
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #32a7ff;
+  text-decoration: underline;
+}
+
+.satisagentikimi {
+  display: none;
+}
+.satisagentikimi .logintext {
+  margin-top: 55px;
+  padding-bottom: 55px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: #edf6ff;
+}
+.satisagentikimi .left .sxsm {
+  width: 167px;
+  height: 25px;
+  margin: 50px 0px 0px 55px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.satisagentikimi .left .mutleqxana {
+  text-align: right;
+  margin-right: 35px;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.04px;
+  color: #698aab;
+}
+.satisagentikimi .left .inpdiv {
+  position: relative;
+  margin-left: 50px;
+}
+.satisagentikimi .left .inpdiv .textinput {
+  border-radius: 4px;
+  width: 455px;
+  height: 57.3px;
+  margin: 19.8px 70.5px 35.8px 0;
+  padding: 16.7px 22.1px 8.7px 31.2px;
+  border-color: transparent;
+  background-color: var(--white);
+  display: inline-block;
+  position: relative;
+}
+.satisagentikimi .left .inpdiv .textinput:focus {
+  outline: none;
+}
+.satisagentikimi .left .inpdiv .textinput::placeholder {
+  margin-bottom: 10px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+.satisagentikimi .left .inpdiv span {
+  position: absolute;
+  top: 0;
+  font-size: 27px;
+  z-index: 15;
+  right: 50px;
+  top: 30px;
+  color: #698aab;
+}
+.satisagentikimi .left button {
+  width: 455px;
+  height: 57px;
+  margin: 34.5px 66.9px 30.6px 50px;
+  padding: 17.5px 200.5px 15.5px;
+  border-radius: 7px;
+  border: none;
+  background-color: #32a7ff;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.satisagentikimi .left button:focus {
+  outline: none;
+}
+.satisagentikimi .left .sxshsb {
+  width: 239px;
+  height: 24px;
+  margin-bottom: 50px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #32a7ff;
+  text-decoration: underline;
+}
+.satisagentikimi .right .teskilatlar {
+  margin-right: 3px;
+  margin-top: 20px;
+  margin-bottom: 38px;
+  padding: 20px 150px;
+  border-color: transparent;
+  background-color: var(--white);
+  display: inline-block;
+  border-radius: 4px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+  text-align: left;
+  border: none;
+}
+.satisagentikimi .right .teskilatlar:focus {
+  border: none;
+  outline: none;
+}
+.satisagentikimi .right .teskilatlar option {
+  text-align: left;
+  margin: 8.4px 215.8px 12.6px 0;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+  border: none;
+  outline: none;
+}
+.satisagentikimi .right .teskilatlar option:focus {
+  outline: none;
+  border: none;
+}
+.satisagentikimi .right .sxsm {
+  text-align: left;
+  margin: 50px 0px 32px 55px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.satisagentikimi .right .inpdiv {
+  position: relative;
+  margin-left: 40px;
+}
+.satisagentikimi .right .inpdiv .textinput {
+  border-radius: 4px;
+  width: 455px;
+  height: 57.3px;
+  margin: 19.8px 70.5px 35.8px 0;
+  padding: 16.7px 22.1px 8.7px 31.2px;
+  border-color: transparent;
+  background-color: var(--white);
+  display: inline-block;
+  position: relative;
+}
+.satisagentikimi .right .inpdiv .textinput:focus {
+  outline: none;
+}
+.satisagentikimi .right .inpdiv .textinput::placeholder {
+  margin-bottom: 10px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+.satisagentikimi .right .inpdiv span {
+  position: absolute;
+  top: 0;
+  font-size: 27px;
+  z-index: 15;
+  right: 60px;
+  top: 30px;
+  color: #698aab;
+}
+.satisagentikimi button {
+  width: 455px;
+  height: 57px;
+  margin: 20px 0px;
+  padding: 17.5px 200.5px 15.5px;
+  border-radius: 7px;
+  border: none;
+  background-color: #32a7ff;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.satisagentikimi button:focus {
+  outline: none;
+  border: none;
+}
+.satisagentikimi a {
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #32a7ff;
+  text-decoration: underline;
+}
+
+.qeyd {
+  margin-top: 20px;
+}
+.qeyd .esasqeyd {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 15px;
+  background-color: #f8f0da;
+}
+.qeyd .esasqeyd .left {
+  margin-top: 20px;
+  text-align: right;
+}
+.qeyd .esasqeyd .left span {
+  font-family: HoeflerText;
+  font-size: 34px;
+  padding: 4.8px 18px 6.8px 19.5px;
+  border: solid 4px #b8dfaf;
+  background-color: #9ed392;
+  border-radius: 50%;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: italic;
+  line-height: normal;
+  letter-spacing: 1.32px;
+  color: var(--white);
+}
+.qeyd .esasqeyd .right span {
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: oblique;
+  line-height: 1.27;
+  letter-spacing: 0.58px;
+  color: #6f6f6f;
+}
+
+.sexsihesab .sexsimelumatlar .logintext {
+  margin-top: 55px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: #edf6ff;
+}
+.sexsihesab .sexsimelumatlar .logintext .sxsm {
+  width: 167px;
+  height: 25px;
+  margin: 50px 0px 0px 55px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.sexsihesab .sexsimelumatlar .logintext .left {
+  position: relative;
+}
+.sexsihesab .sexsimelumatlar .logintext .left::before {
+  position: absolute;
+  content: '';
+  width: 2px;
+  height: 670px;
+  top: 60px;
+  right: -10px;
+  opacity: 0.2;
+  background-color: #a0c0e0;
+}
+.sexsihesab .sexsimelumatlar .logintext .left .inpdiv {
+  position: relative;
+  margin-left: 50px;
+}
+.sexsihesab .sexsimelumatlar .logintext .left .inpdiv .textinput {
+  border-radius: 4px;
+  width: 455px;
+  height: 57.3px;
+  margin: 19.8px 70.5px 35.8px 0;
+  padding: 16.7px 22.1px 8.7px 31.2px;
+  border-color: transparent;
+  background-color: var(--white);
+  display: inline-block;
+  position: relative;
+}
+.sexsihesab .sexsimelumatlar .logintext .left .inpdiv .textinput:focus {
+  outline: none;
+}
+.sexsihesab .sexsimelumatlar .logintext .left .inpdiv .textinput::placeholder {
+  margin-bottom: 10px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+.sexsihesab .sexsimelumatlar .logintext .left .inpdiv span {
+  position: absolute;
+  top: 0;
+  font-size: 27px;
+  z-index: 15;
+  right: 50px;
+  top: 30px;
+  color: #698aab;
+}
+.sexsihesab .sexsimelumatlar .logintext .left button {
+  width: 455px;
+  height: 57px;
+  margin: 34.5px 66.9px 30.6px 50px;
+  padding: 17.5px 200.5px 15.5px;
+  border-radius: 7px;
+  border: none;
+  background-color: #32a7ff;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.sexsihesab .sexsimelumatlar .logintext .left button:focus {
+  outline: none;
+}
+.sexsihesab .sexsimelumatlar .logintext .left .sxshsb {
+  width: 239px;
+  height: 24px;
+  margin-bottom: 50px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #32a7ff;
+  text-decoration: underline;
+}
+.sexsihesab .sexsimelumatlar .logintext .right {
+  padding-top: 100px;
+}
+.sexsihesab .sexsimelumatlar .logintext .right .span1 {
+  margin-right: 110px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.sexsihesab .sexsimelumatlar .logintext .right .span2 {
+  margin-left: 20px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+.sexsihesab .sexsimelumatlar .logintext .right .mstr {
+  margin-right: 160px;
+}
+
+.table-list p {
+  margin-left: 40px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.table-list .text {
+  margin-top: 25px;
+  text-align: right;
+  margin-right: 25px;
+}
+.table-list .text .span1 {
+  margin-top: 45px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.table-list .text .span2 {
+  margin: 75.3px 23px 0 20px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.07px;
+  color: #698aab;
+}
+.table-list .lists {
+  margin-top: 50px;
+  padding: 50px 35px;
+  border-radius: 15px;
+  background-color: #edf6ff;
+}
+.table-list .lists table {
+  width: 90%;
+  margin-left: 55px;
+}
+.table-list .lists table th, .table-list .lists table td {
+  padding: 10px 0px;
+  text-align: center;
+  border-bottom: solid 0.5px #a0c0e0;
+  background-color: #edf6ff;
+}
+.table-list .lists table th {
+  margin: 75.8px 123.3px 19.2px 56.7px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+.table-list .lists table td {
+  margin: 14.5px 131px 16.6px 123.3px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+.table-list .lists table .name {
+  margin: 14.5px 123.3px 16.6px 56.7px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #0080ff;
+}
+
+.qeydler {
+  margin-top: 20px;
+}
+.qeydler .esasqeyd {
+  padding: 30px 0px;
+  border-radius: 15px;
+  background-color: #edf6ff;
+}
+.qeydler .esasqeyd p {
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+  margin-left: 85px;
+}
+.qeydler .esasqeyd .box {
+  margin-top: 20px;
+}
+.qeydler .esasqeyd .box .left {
+  margin-top: 40px;
+  text-align: right;
+}
+.qeydler .esasqeyd .box .left span {
+  font-family: HoeflerText;
+  font-size: 34px;
+  padding: 4.8px 18px 6.8px 19.5px;
+  border: solid 4px #b8dfaf;
+  background-color: #9ed392;
+  border-radius: 50%;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: italic;
+  line-height: normal;
+  letter-spacing: 1.32px;
+  color: var(--white);
+}
+.qeydler .esasqeyd .box .right span {
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.27;
+  letter-spacing: 0.58px;
+  color: #6f6f6f;
+}
+.qeydler .esasqeyd .box .right .tarix {
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+
+.Loginmain {
+  margin-top: 10px;
+}
+.Loginmain .sexsimelumatlar .logintext {
+  padding-bottom: 50px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: #edf6ff;
+}
+.Loginmain .sexsimelumatlar .logintext .sxsm {
+  width: 167px;
+  height: 25px;
+  margin: 50px 0px 0px 55px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.Loginmain .sexsimelumatlar .logintext .mutleqxana {
+  text-align: right;
+  margin-right: 35px;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.04px;
+  color: #698aab;
+}
+.Loginmain .sexsimelumatlar .logintext .left {
+  position: relative;
+}
+.Loginmain .sexsimelumatlar .logintext .left::before {
+  position: absolute;
+  content: '';
+  width: 2px;
+  height: 150px;
+  top: 70px;
+  right: -10px;
+  opacity: 0.2;
+  background-color: #a0c0e0;
+}
+.Loginmain .sexsimelumatlar .logintext .left::after {
+  position: absolute;
+  content: '';
+  width: 2px;
+  height: 150px;
+  bottom: 10px;
+  right: -10px;
+  opacity: 0.2;
+  background-color: #a0c0e0;
+}
+.Loginmain .sexsimelumatlar .logintext .left .inpdiv {
+  position: relative;
+  margin-left: 50px;
+}
+.Loginmain .sexsimelumatlar .logintext .left .inpdiv .textinput {
+  border-radius: 4px;
+  width: 455px;
+  height: 57.3px;
+  margin: 19.8px 70.5px 35.8px 0;
+  padding: 16.7px 22.1px 8.7px 31.2px;
+  border-color: transparent;
+  background-color: var(--white);
+  display: inline-block;
+  position: relative;
+}
+.Loginmain .sexsimelumatlar .logintext .left .inpdiv .textinput:focus {
+  outline: none;
+}
+.Loginmain .sexsimelumatlar .logintext .left .inpdiv .textinput::placeholder {
+  margin-bottom: 10px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+.Loginmain .sexsimelumatlar .logintext .left .inpdiv span {
+  position: absolute;
+  top: 0;
+  font-size: 27px;
+  z-index: 15;
+  right: 50px;
+  top: 30px;
+  color: #698aab;
+}
+.Loginmain .sexsimelumatlar .logintext .left button {
+  width: 455px;
+  height: 57px;
+  margin: 34.5px 66.9px 30.6px 50px;
+  padding: 17.5px 200.5px 15.5px;
+  border-radius: 7px;
+  border: none;
+  background-color: #32a7ff;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.Loginmain .sexsimelumatlar .logintext .left button:focus {
+  outline: none;
+}
+.Loginmain .sexsimelumatlar .logintext .left .sxshsb {
+  width: 239px;
+  height: 24px;
+  margin-bottom: 50px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #32a7ff;
+  text-decoration: underline;
+}
+.Loginmain .sexsimelumatlar .logintext .right {
+  padding-top: 40px;
+  position: relative;
+}
+.Loginmain .sexsimelumatlar .logintext .right::before {
+  position: absolute;
+  left: -15px;
+  top: 250px;
+  content: 'və ya';
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #32a7ff;
+}
+.Loginmain .sexsimelumatlar .logintext .right .sosial {
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.Loginmain .sexsimelumatlar .logintext .right .Facebook {
+  margin-top: 50px;
+  padding: 18px 180px 15px 181px;
+  border-radius: 7px;
+  background-color: #4e7ac2;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.Loginmain .sexsimelumatlar .logintext .right .Google {
+  margin-top: 50px;
+  padding: 17px 190px 16px;
+  border-radius: 7px;
+  background-color: #e14827;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.Loginmain .sexsimelumatlar .logintext .right button {
+  border: none;
+}
+.Loginmain .sexsimelumatlar .logintext .right button:focus {
+  outline: none;
+}
+
+.catdrilacaqunvan {
+  display: block;
+}
+.catdrilacaqunvan .logintext {
+  margin-top: 55px;
+  padding-bottom: 55px;
+  padding-top: 55px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: #edf6ff;
+}
+.catdrilacaqunvan .left .sxsm {
+  width: 167px;
+  height: 25px;
+  margin: 50px 0px 0px 55px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.catdrilacaqunvan .left .inpdiv {
+  position: relative;
+  margin-left: 50px;
+}
+.catdrilacaqunvan .left .inpdiv .textinput {
+  border-radius: 4px;
+  width: 455px;
+  height: 57.3px;
+  margin: 19.8px 70.5px 35.8px 0;
+  padding: 16.7px 22.1px 8.7px 31.2px;
+  border-color: transparent;
+  background-color: var(--white);
+  display: inline-block;
+  position: relative;
+}
+.catdrilacaqunvan .left .inpdiv .textinput:focus {
+  outline: none;
+}
+.catdrilacaqunvan .left .inpdiv .textinput::placeholder {
+  margin-bottom: 10px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+.catdrilacaqunvan .left button {
+  width: 455px;
+  height: 57px;
+  margin: 34.5px 66.9px 30.6px 50px;
+  padding: 17.5px 200.5px 15.5px;
+  border-radius: 7px;
+  border: none;
+  background-color: #32a7ff;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.catdrilacaqunvan .left button:focus {
+  outline: none;
+}
+.catdrilacaqunvan .left .sxshsb {
+  width: 239px;
+  height: 24px;
+  margin-bottom: 50px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #32a7ff;
+  text-decoration: underline;
+}
+.catdrilacaqunvan .right .seher {
+  margin-right: 3px;
+  margin-top: 20px;
+  margin-bottom: 38px;
+  padding: 20px 150px;
+  border-color: transparent;
+  background-color: var(--white);
+  display: inline-block;
+  border-radius: 4px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+  text-align: left;
+  border: none;
+}
+.catdrilacaqunvan .right .seher:focus {
+  border: none;
+  outline: none;
+}
+.catdrilacaqunvan .right .seher .olke {
+  margin-right: 3px;
+  margin-top: 20px;
+  margin-bottom: 38px;
+  padding: 20px 150px;
+  border-color: transparent;
+  background-color: var(--white);
+  display: inline-block;
+  border-radius: 4px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+  text-align: left;
+  border: none;
+}
+.catdrilacaqunvan .right .seher .olke:focus {
+  border: none;
+  outline: none;
+}
+.catdrilacaqunvan .right .seher option {
+  text-align: left;
+  margin: 8.4px 215.8px 12.6px 0;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+  border: none;
+  outline: none;
+}
+.catdrilacaqunvan .right .seher option:focus {
+  outline: none;
+  border: none;
+}
+.catdrilacaqunvan .right .sxsm {
+  text-align: left;
+  margin: 50px 0px 32px 55px;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  color: #000000;
+}
+.catdrilacaqunvan .right .inpdiv {
+  position: relative;
+  margin-left: 40px;
+}
+.catdrilacaqunvan .right .inpdiv .textinput {
+  border-radius: 4px;
+  width: 455px;
+  height: 57.3px;
+  margin: 19.8px 70.5px 35.8px 0;
+  padding: 16.7px 22.1px 8.7px 31.2px;
+  border-color: transparent;
+  background-color: var(--white);
+  display: inline-block;
+  position: relative;
+}
+.catdrilacaqunvan .right .inpdiv .textinput:focus {
+  outline: none;
+}
+.catdrilacaqunvan .right .inpdiv .textinput::placeholder {
+  margin-bottom: 10px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #698aab;
+}
+.catdrilacaqunvan .right .inpdiv span {
+  position: absolute;
+  top: 0;
+  font-size: 27px;
+  z-index: 15;
+  right: 60px;
+  top: 30px;
+  color: #698aab;
+}
+.catdrilacaqunvan button {
+  width: 455px;
+  height: 57px;
+  margin: 20px 0px;
+  padding: 17.5px 200.5px 15.5px;
+  border-radius: 7px;
+  border: none;
+  background-color: #32a7ff;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: var(--white);
+}
+.catdrilacaqunvan button:focus {
+  outline: none;
+  border: none;
+}
+.catdrilacaqunvan a {
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: #32a7ff;
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=style.css.map */
